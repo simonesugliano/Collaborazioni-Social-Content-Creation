@@ -1,5 +1,4 @@
-# Collaborazioni-Social-Content-Creation
-# Collaborazioni Social & Content Creation
+# Collaborazioni Social & Content Creation (Work in Progress)
 
 Repository dedicato alla raccolta dei materiali, dei concept e dei processi utilizzati per la gestione social dei brand con cui collaboro.
 
